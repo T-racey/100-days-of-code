@@ -1,30 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 1st 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Basing my journey on Freecodecamp and specifically the new Responsive web design as it is first on the list. https://www.freecodecamp.org/learn/2022/responsive-web-design 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: 
+I refreshed my knowledge onthe following HTML basics:
+Tags,elements, nested elements, images as SRC's, anchors and targets.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+All of this was a refresh of elements covered in the SoC stage 2 tasks - I was suprised at how much I had forgotten.
+This really brought it home to me that practice is so important and will hopefully make me perfect!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I really struggled with step 14 but I managed to figure it out and I guess I am going to feel like this a lot!
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
