@@ -15,3 +15,8 @@ This really brought it home to me that practice is so important and will hopeful
 
 I really struggled with step 14 but I managed to figure it out and I guess I am going to feel like this a lot!
 
+### Day 2: March 2nd 2023
+
+Carried out Freecodecamp ‘Responsive Web Design’ Tasks 15 - 34. Learnt about inserting links to a photo and how to improve accessibility of the image added with an alt attribute. Also tackled inserting sections, ordered and unordered lists, figure elements, figure captions and how to emphasize words with a strong element.
+
+I was very 'cold' at the start and took a while to warm up and recall from task 14, how to insert image links. Practice, practice, practice!
