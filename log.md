@@ -5,6 +5,8 @@
 Basing my journey on Freecodecamp and specifically the new Responsive web design as it is first on the list. https://www.freecodecamp.org/learn/2022/responsive-web-design 
 
 **Today's Progress**: 
+Tasks 1 - 14
+
 I refreshed my knowledge onthe following HTML basics:
 Tags,elements, nested elements, images as SRC's, anchors and targets.
 
@@ -17,6 +19,23 @@ I really struggled with step 14 but I managed to figure it out and I guess I am 
 
 ### Day 2: March 2nd 2023
 
+**Today's Progress**: 
+Tasks 15 - 34
+
 Carried out Freecodecamp ‘Responsive Web Design’ Tasks 15 - 34. Learnt about inserting links to a photo and how to improve accessibility of the image added with an alt attribute. Also tackled inserting sections, ordered and unordered lists, figure elements, figure captions and how to emphasize words with a strong element.
 
+**Thoughts:** 
+
 I was very 'cold' at the start and took a while to warm up and recall from task 14, how to insert image links. Practice, practice, practice!
+
+### Day 3: March 3rd 2023
+
+**Today's Progress**: 
+Tasks 35 - 46
+
+Today I added a web form to collect information, actions, input elements, type and action attributes, radio buttons and id attributes.
+
+**Thoughts:** 
+
+Will this all stick??!!
+Got tied up in knots over capitals and spaces!
