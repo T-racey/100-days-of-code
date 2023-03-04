@@ -39,3 +39,16 @@ Today I added a web form to collect information, actions, input elements, type a
 
 Will this all stick??!!
 Got tied up in knots over capitals and spaces!
+
+### Day 4: March 4th 2023
+
+**Today's Progress**: 
+Tasks 47 - 69 
+
+It's Saturday so I decided to do two hours and complete the final steps of the "Learn HTML by Building a Cat Photo App". 
+Hey - I am an expert!!!!!!!
+No, no not at all. After focsuing on forms for a few sessions, they threw in a request for an anchor element with a link and I thought...yes I know this but how do I construct that again? Yep it had slipped out of the backdoor of my brain. Got there in the end. Then they finished it off with some simple footers and essential title, doctype and meta elements.
+
+**Thoughts:** 
+
+I'm struck by how anxious I feel whenasked to recall something I know I have done but have forgotten the ptecise structure of. So, thoughts like - where do i put that in the syntax. How much of this is memory and how much is it logic and where to look regarding having done something before.
