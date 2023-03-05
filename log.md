@@ -52,3 +52,18 @@ No, no not at all. After focsuing on forms for a few sessions, they threw in a r
 **Thoughts:** 
 
 I'm struck by how anxious I feel whenasked to recall something I know I have done but have forgotten the ptecise structure of. So, thoughts like - where do i put that in the syntax. How much of this is memory and how much is it logic and where to look regarding having done something before.
+
+### Day 5: March 5th 2023
+
+**Today's Progress**: 
+Learn basic CSS by building a cafe menu
+Tasks 1 - 20 
+
+Today I covered inline styling, stylesheets and linking a stylesheet and experimented with alignment and background colours (I mean colors!)
+
+**Thoughts:** 
+
+It's Sunday funday! Finally moving on to coffee from cats and designing a coffee menu. Started off easy and then stumped by a couple of recap ideas from HTML stage.
+
+Still making mistakes by using English spelling rather than american.
+I LOVE the intro to CSS and find the commands a bit easier than HTML at this early stage of learning.
