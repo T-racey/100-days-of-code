@@ -67,3 +67,15 @@ It's Sunday funday! Finally moving on to coffee from cats and designing a coffee
 
 Still making mistakes by using English spelling rather than american.
 I LOVE the intro to CSS and find the commands a bit easier than HTML at this early stage of learning.
+
+### Day 6: March 6th 2023
+
+**Today's Progress**: 
+Learn basic CSS by building a cafe menu
+Tasks 21 - 40 
+
+Today I covered the CSS width (pixels and %'s) property, comments in CSS, class selectors, class attributes, background images, article elements, alignment, 
+
+**Thoughts:** 
+
+Still finding the intro to CSS commands a bit easier than HTML at this early stage of learning.
