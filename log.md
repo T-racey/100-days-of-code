@@ -79,3 +79,15 @@ Today I covered the CSS width (pixels and %'s) property, comments in CSS, class 
 **Thoughts:** 
 
 Still finding the intro to CSS commands a bit easier than HTML at this early stage of learning.
+
+### Day 7: March 7th 2023
+
+**Today's Progress**: 
+Continued with: Learn basic CSS by building a cafe menu
+Tasks 41 - 60 
+
+Today started by recapping text widths, then moved on to adding multiple class selectors, the padding propery, max-width property, font-family, fallback values for fonts and font styles
+
+**Thoughts:** 
+
+Still finding the intro to CSS commands a bit easier than HTML at this early stage of learning.
