@@ -91,3 +91,15 @@ Today started by recapping text widths, then moved on to adding multiple class s
 **Thoughts:** 
 
 Still finding the intro to CSS commands a bit easier than HTML at this early stage of learning.
+
+### Day 8: March 8th 2023
+
+**Today's Progress**: 
+Continued with: Learn basic CSS by building a cafe menu
+Tasks 61 - 82 
+
+Introduced to <hr> and changed line widths. Also beginning to understand when to use a "." (dot) and when not to use a "." when selecting elements / classes to style. Then covered the rainbow of colors for styling <a> link properties (visited, hover, active).
+
+**Thoughts:** 
+
+Found today the easiest day so far!
