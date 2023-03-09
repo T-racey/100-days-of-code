@@ -103,3 +103,15 @@ Introduced to <hr> and changed line widths. Also beginning to understand when to
 **Thoughts:** 
 
 Found today the easiest day so far!
+  
+### Day 9: March 9th 2023
+
+**Today's Progress**: 
+Finished Learn basic CSS by building a cafe menu
+Tasks 83 - 91. This covered margin spaces, refresh of image links, spacing around images and negative margins.
+
+Decided to spend an hour reviewing github basics and a further hour on basic command prompts.
+
+**Thoughts:** 
+
+I found it easier to learn when following freecodecamp lessons than 'just reading'.
