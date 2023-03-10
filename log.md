@@ -115,3 +115,20 @@ Decided to spend an hour reviewing github basics and a further hour on basic com
 **Thoughts:** 
 
 I found it easier to learn when following freecodecamp lessons than 'just reading'.
+  
+### Day 10: March 10th 2023
+
+**Today's Progress**: 
+
+Dived into the School of Code Stage 2 additional reading and in particular read https://bit.ly/2yoR5T8 This is part 1 of Understanding Git. 
+A really helpful explanation.
+
+Today I met up with fellow South Coast bootcampers and all were discussing JavaScript - of which I know nothing!
+So I spent the second part of my session doing steps 1-10 (9%) of Basic Javascript. Covered comments, data types, variables, Storing Values with the Assignment Operator, Assigning the Value of One Variable to Another, Initializing Variables with the Assignment Operator, Declaring String Variables, Uninitialized Variables, Understanding Case Sensitivity in Variables, var and let differences and finally Declaring a Read-Only Variable with the const Keyword.
+
+**Thoughts:** 
+
+Cannot wait to do 8 hours or so a day of this!
+I loved the intro to JavaScript!
+  
+
