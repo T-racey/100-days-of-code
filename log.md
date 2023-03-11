@@ -132,3 +132,37 @@ Cannot wait to do 8 hours or so a day of this!
 I loved the intro to JavaScript!
   
 
+### Day 11: March 11th 2023
+
+**Today's Progress**: 
+
+Continued with Basic JavaScript, provided by FreeCodeCamp.
+Covered:
+
+Declare a Read-Only Variable with the const Keyword
+Subtract One Number from Another
+Multiply Two Numbers
+Divide One Number by Another
+Increment a Number
+Decrement a Number
+Create Decimal Numbers
+Multiply Two Decimals
+Divide one Decimal by Aother
+Finding a Remainder
+Compound Assignment With Augmented Addition, Subtraction, Multiplication, Division, 
+Escaping Literal Quotes in Strings 
+Quoting Strings with Single Quotes 
+Escape Sequences in Strings
+  
+**Thoughts:** 
+
+Wow! All so easy until "Assign the following three lines of text into the single variable myStr using escape sequences"
+
+FirstLine
+\SecondLine
+ThirdLine
+
+Struggled to get to this:
+const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine"; 
+
+  
