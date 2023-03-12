@@ -165,4 +165,19 @@ ThirdLine
 Struggled to get to this:
 const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine"; 
 
-  
+### Day 12: March 12th 2023
+
+**Today's Progress**: 
+
+Continued with Basic JavaScript, provided by FreeCodeCamp.
+Covered:
+
+Concatenating Strings with Plus Operator
+Concatenating Strings with the Plus Equals Operator
+Constructing Strings with Variables
+Appending Variables to Strings
+Find the Length of a String
+
+**Thoughts:** 
+
+Shorter session today as I wanted to check that I have everything set up for fist day of School of Code tomorrow, in terms of running latest apps etc 
