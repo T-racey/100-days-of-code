@@ -181,3 +181,34 @@ Find the Length of a String
 **Thoughts:** 
 
 Shorter session today as I wanted to check that I have everything set up for fist day of School of Code tomorrow, in terms of running latest apps etc 
+
+Day 13: March 13th 2023
+Today's Progress:
+
+Long day today - I'm sure I'll get used to this. First day of SoC. Great intro - motivating and excellent introduction.
+Wrote up my notes and decided to use my Hour of Code to finish the CSS Diner challenges at https://flukeout.github.io/
+In the session today I progressed to level 15 in my pair programming session, so this evening I finished the remaining levels to 32.
+I got the hang of it and really enjoyed it - great way to learn.
+  
+First Child Pseudo-selector
+Only Child Pseudo-selector
+Last Child Pseudo-selector
+Nth Child Pseudo-selector
+Nth Last Child Selector
+First of Type Selector
+Nth of Type Selector
+Nth-of-type Selector with Formula
+Only of Type Selector
+Last of Type Selector
+Empty Selector
+Negation Pseudo-class
+Attribute Selector
+Attribute Value Selector
+Attribute Starts With Selector
+Attribute Ends With Selector
+Attribute Wildcard Selector
+
+Thoughts:
+
+Seems that some of the descriptions above are more complicated than the actual commands.
+One day at a time and take on board all the good advice given today about the method of learning and the truth about being well outside of my comfort zone!
