@@ -220,21 +220,21 @@ This felt like another long day today. Second day of SoC.
 We covered more computational thinking, reflective learning, and self-management. All okay I thought and then we tried to solve a scratch challenge.
 It was difficult to remember how to solve a simple game based on a user guessing if the next number generated will be more or less than the previous number. There were to be 5 rounds, and the users score would increase or decrease based on whether they guessed correctly or not. My coding team (Lawrence and Lucy) had a good stab but we couldn't quite get there with the loop.
 
-Then this was followed by revisiting Git! If you are reading this then I managed to clone my repository, make changes, and ouch them back up, rather than simply editing the readme file online!!!!! :grin:
+Then this was followed by revisiting Git! If you are reading this then I managed to clone my repository, make changes, and push them back up, rather than simply editing the readme file online!!!!! :grin:
 
 With Git, we looked at the rhythm of changes from starting a new project, making changes (as a team) and pushing / pulling them back down.
-I do need much more practice as I am unsure on how branches work and lots of other things. In fact, at this stage I do not even know what I do not know.
+I do need much more practice as I am unsure of how branches work and lots of other things. In fact, at this stage I do not even know what I do not know.
 I'm pleased if this appears online though :blush:
 
 Tom Burns stayed online after class finished and pointed me in the direction of helpful resources - star! :star2:
 
 Other resources and tools which were new to me today are:
-Google Jamboard
-Diagrams.net
+Google Jamboard and Diagrams.net
 
 For the remaining 30 mins of my time, I recapped basic JavaScript functions to help me first thing tomorrow as I believe that is how the day starts - after the squats! :smiley:
 
 **Thoughts:**
 
 Still taking this one day at a time. Hardest thing right now is to not feel overwhelmed and just keep practicing.
+Read this online and found mistakes - so had to prove to myslef I could amend and upload again - If I can see this line, I did it! :two_hearts:
 
