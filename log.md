@@ -7,12 +7,12 @@ Basing my journey on Freecodecamp and specifically the new Responsive web design
 **Today's Progress**: 
 Tasks 1 - 14
 
-I refreshed my knowledge onthe following HTML basics:
+I refreshed my knowledge on the following HTML basics:
 Tags,elements, nested elements, images as SRC's, anchors and targets.
 
 **Thoughts:** 
 
-All of this was a refresh of elements covered in the SoC stage 2 tasks - I was suprised at how much I had forgotten.
+All of this was a refresh of elements covered in the SoC stage 2 tasks - I was surprised at how much I had forgotten.
 This really brought it home to me that practice is so important and will hopefully make me perfect!
 
 I really struggled with step 14 but I managed to figure it out and I guess I am going to feel like this a lot!
@@ -47,11 +47,11 @@ Tasks 47 - 69
 
 It's Saturday so I decided to do two hours and complete the final steps of the "Learn HTML by Building a Cat Photo App". 
 Hey - I am an expert!!!!!!!
-No, no not at all. After focsuing on forms for a few sessions, they threw in a request for an anchor element with a link and I thought...yes I know this but how do I construct that again? Yep it had slipped out of the backdoor of my brain. Got there in the end. Then they finished it off with some simple footers and essential title, doctype and meta elements.
+No, no not at all. After focusing on forms for a few sessions, they threw in a request for an anchor element with a link and I thought...yes I know this but how do I construct that again? Yep it had slipped out of the backdoor of my brain. Got there in the end. Then they finished it off with some simple footers and essential title, doctype and meta elements.
 
 **Thoughts:** 
 
-I'm struck by how anxious I feel whenasked to recall something I know I have done but have forgotten the ptecise structure of. So, thoughts like - where do i put that in the syntax. How much of this is memory and how much is it logic and where to look regarding having done something before.
+I'm struck by how anxious I feel when asked to recall something I know I have done but have forgotten the precise structure of. So, thoughts like - where do I put that in the syntax. How much of this is memory and how much is it logic and where to look regarding having done something before.
 
 ### Day 5: March 5th 2023
 
@@ -86,7 +86,7 @@ Still finding the intro to CSS commands a bit easier than HTML at this early sta
 Continued with: Learn basic CSS by building a cafe menu
 Tasks 41 - 60 
 
-Today started by recapping text widths, then moved on to adding multiple class selectors, the padding propery, max-width property, font-family, fallback values for fonts and font styles
+Today started by recapping text widths, then moved on to adding multiple class selectors, the padding properly, max-width property, font-family, fallback values for fonts and font styles
 
 **Thoughts:** 
 
@@ -147,7 +147,7 @@ Increment a Number
 Decrement a Number
 Create Decimal Numbers
 Multiply Two Decimals
-Divide one Decimal by Aother
+Divide one Decimal by Another
 Finding a Remainder
 Compound Assignment With Augmented Addition, Subtraction, Multiplication, Division, 
 Escaping Literal Quotes in Strings 
@@ -236,5 +236,51 @@ For the remaining 30 mins of my time, I recapped basic JavaScript functions to h
 **Thoughts:**
 
 Still taking this one day at a time. Hardest thing right now is to not feel overwhelmed and just keep practicing.
-Read this online and found mistakes - so had to prove to myslef I could amend and upload again - If I can see this line, I did it! :two_hearts:
+Read this online and found mistakes - so had to prove to myself I could amend and upload again - If I can see this line, I did it! :two_hearts:
 
+### Day 15: March 14th 2023
+**Today's Progress:**
+
+It was explained to us why we will be focusing on Javascript (as opposed to other possible languages) - whilst it was written in 10 days, it is the current leading language for Web.
+
+Today we covered:
+The 5 pillars of learning good JS and how to learn by REPL.
+
+Our main task was to use our newfound JavaScript knowledge to make a secret only available to people who knew the correct password.
+
+We used:
+
+variables
+if statements
+loops
+functions
+
+Then, we declared a function that prompts the user for input - a password. 
+We stored that password in a variable within the function
+Checked whether the password matched the correct password 
+If it did, returned a true from the function.
+If it didn't, let them try again.
+If they failed three times in a row, it returned a false from the function.
+
+Then:
+
+👉 We Refactored the code into a function called an authenticateUser. This returned a true if the user logged in successfully with the correct password and false if they got the password wrong more than three times. 
+
+I got there in the end (Google was my friend) and I don't know if i could do it again without practising many many times.
+
+I tried to push all my changes to Git Hub - I couldn't see that this worked, but my Visual Code said it worked and my code buddy said he could see the changes. At the moment i am like a rabbit in the headlights with Git.
+
+Other resources and tools which were new to me today are:
+https://30secondsofknowledge.com/ - wow - what a cool tool! I've installed this and set it to JS.
+
+
+**Thoughts:**
+
+HELP!
+
+At the risk of repeating myself. This felt like another (very) long day. Third day of SoC. 
+
+I seem to have moments of eureka, followed by despair.
+
+I've worked out how to add a spell checker extension here, added it and (hopefully) removed my mistakes!
+Will I be able to push these changes to GitHub? Let's find out! :grin:
