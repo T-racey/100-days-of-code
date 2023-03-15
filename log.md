@@ -250,10 +250,7 @@ Our main task was to use our newfound JavaScript knowledge to make a secret only
 
 We used:
 
-variables
-if statements
-loops
-functions
+variables, if statements, loops, functions
 
 Then, we declared a function that prompts the user for input - a password. 
 We stored that password in a variable within the function
@@ -268,7 +265,7 @@ Then:
 
 I got there in the end (Google was my friend) and I don't know if i could do it again without practising many many times.
 
-I tried to push all my changes to Git Hub - I couldn't see that this worked, but my Visual Code said it worked and my code buddy said he could see the changes. At the moment i am like a rabbit in the headlights with Git.
+I tried to push all my changes to Git Hub - I couldn't see that this worked, but my Visual Code said it worked and my code buddy said he could see the changes. At the moment I am like a rabbit in the headlights with Git.
 
 Other resources and tools which were new to me today are:
 https://30secondsofknowledge.com/ - wow - what a cool tool! I've installed this and set it to JS.
@@ -283,4 +280,4 @@ At the risk of repeating myself. This felt like another (very) long day. Third d
 I seem to have moments of eureka, followed by despair.
 
 I've worked out how to add a spell checker extension here, added it and (hopefully) removed my mistakes!
-Will I be able to push these changes to GitHub? Let's find out! :grin:
+Will I be able to push these changes to GitHub? Let's find out! :grin: AGAIN!
