@@ -284,14 +284,26 @@ Will I be able to push these changes to GitHub? Let's find out! :grin: AGAIN!
 
 ### Day 16: March 16th 2023
 **Today's Progress:**
+
 We were introduced to objects and arrays. We then had an excellent presentation by Joseph Trodden where we focused on the purpose of feedback how to give and receive good feedback and this was very engaging along the emphasis once again that working in teams is critical for success in the workplace.
+
 We covered casing, Let, Const and Var.
+
 We set files up (HTML and JS) and linked them in VSC.
+
 We looked at how to create arrays, select from an array, ask the console about the length of an array, remove the last element.
-👉 
-Other resources and tools which were new to me today are:
+
+👉 Other resources and tools which were new to me today are:
+
 My programming teammate introduced me to more keyboard shortcuts and how to edit multiple lines in VSC. 
+
 I had my first session with my mentor. I have never had a mentor before. It was brilliant – I really appreciated being able to ask stupid questions!
+
 **Thoughts:**
-We started with a quiz!!!! I weas not expecting that and managed 5/8. More revision / practice needed, but I knew that yesterday was a confusing day for me. They really meant it when they said thrive outside of your comfort zone! I really need to accelerate the feeling of being comfortable with not knowing everything. It also feels incredibly strange to be permitted to Google the answer.
+
+We started with a quiz!!!! I was not expecting that and managed 5/8. 
+More revision / practice needed, but I knew that yesterday was a confusing day for me. 
+They really meant it when they said thrive outside of your comfort zone! 
+I really need to accelerate the feeling of being comfortable with not knowing everything. 
+It also feels incredibly strange to be permitted to Google the answer.
 
