@@ -307,3 +307,17 @@ They really meant it when they said thrive outside of your comfort zone!
 I really need to accelerate the feeling of being comfortable with not knowing everything. 
 It also feels incredibly strange to be permitted to Google the answer.
 
+### Day 17: March 17th 2023
+**Today's Progress:**
+
+It started with a :kiss: I mean quiz, to check learning so far - I definitely have some knowledge gaps. After a re-cap of topics covered this week we dived into my first hackathon. This week, we had to use JavaScript to create a Rock, Paper, Scissors game.
+
+We mastered git (only kidding). We progressed our understanding of Git and managed to send commits up and down and we also managed a fair number of the required tasks. I have weekend homework and I'm looking forward to cementing some concepts over the weekend.
+
+👉 Other resources and tools which were new to me today are: 
+
+My coding partner showed me how to preview this log before pushing changes and noticing errors after the event. 
+
+**Thoughts:**
+
+Today I discovered that sometimes Chat GPT can mess up and send you answers to a question you did not ask. I'd like to say we are only human but ....
