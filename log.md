@@ -321,3 +321,36 @@ My coding partner showed me how to preview this log before pushing changes and n
 **Thoughts:**
 
 Today I discovered that sometimes Chat GPT can mess up and send you answers to a question you did not ask. I'd like to say we are only human but ....
+
+
+### Day 18: March 18th 2023
+**Today's Progress:**
+
+Today I spent the day reviewing the entire weeks teachings fron School of Code and testing myself at the console.
+
+I re-capped the following: 
+
+Computational thinking
+Declaring and assigning variables
+Using variables
+Types
+Primitive types (strings, numbers, booleans)
+Arrays and objects
+Functions
+How to declare a function (with parameters)
+How to call a function (with arguments)
+How to use a function’s return value (if there is one)
+Loops
+While
+For
+If statements
+Operators (+, -, *, /, =, %, etc.)
+
+I then tested myself by continuing with freeCodeCamp's Basic Javascript course. 
+
+👉 I found and like the format of https://htmlcheatsheet.com/js/ 
+
+
+**Thoughts:**
+
+I still need need to practice writing javascript. Practice definitely moves me further towards being better!
