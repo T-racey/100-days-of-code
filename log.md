@@ -326,7 +326,7 @@ Today I discovered that sometimes Chat GPT can mess up and send you answers to a
 ### Day 18: March 18th 2023
 **Today's Progress:**
 
-Today I spent the day reviewing the entire weeks teachings fron School of Code and testing myself at the console.
+Today I spent the day reviewing the entire weeks teachings from School of Code and testing myself at the console.
 
 I re-capped the following: 
 
@@ -354,3 +354,22 @@ I then tested myself by continuing with freeCodeCamp's Basic Javascript course.
 **Thoughts:**
 
 I still need need to practice writing javascript. Practice definitely moves me further towards being better!
+
+### Day 19: March 19th 2023
+**Today's Progress:**
+
+This am, I met up with 5 fellow School of Code students (Michael, Tom, Ahia, Vicky and Christian), for a couple of hours to recap on some fundamentals (JS arrays, Functions and Loops).
+
+I then progressed through 30 or so further freeBootCamp JS questions (until I reached an area not yet covered by SoC, "Selecting from many options with Switch Statements"). 
+Finally, I completed the W3Schools JS Quiz Test for a change. I scored 80% which is much better that the tests with SoC this week and considering I haven't covered some of the areas yet I was pleased with this progress.
+
+![](2023-03-19-13-00-56.png)
+
+ and then revisited the code written for the hackathon to solve the Rock, Paper, Scissors challenge.
+
+
+**Thoughts:**
+
+I feel like I can read and understand certain lines of code, but when it comes to writing it, I often confuse syntax - particularly with regards to the choice of bracket types. 
+
+I hope that week 2 of SoC cements some of these concepts. :sweat_smile:
