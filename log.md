@@ -355,6 +355,7 @@ I then tested myself by continuing with freeCodeCamp's Basic Javascript course.
 
 I still need need to practice writing javascript. Practice definitely moves me further towards being better!
 
+
 ### Day 19: March 19th 2023
 **Today's Progress:**
 
@@ -373,3 +374,28 @@ Finally, I completed the W3Schools JS Quiz Test for a change. I scored 80% which
 I feel like I can read and understand certain lines of code, but when it comes to writing it, I often confuse syntax - particularly with regards to the choice of bracket types. 
 
 I hope that week 2 of SoC cements some of these concepts. :sweat_smile:
+
+### Day 20: March 20th 2023
+**Today's Progress:**
+
+Today, the SoC introduced us to the DOM!
+I never appreciated that when a web page is loaded, the browser creates a Document Object Model of the page!
+
+This is totally new - I thought that the JS simply worked alongside the HTML and CSS pages and the DOM, with JS gets all the power it needs to create dynamic HTML.
+
+We worked in a team of 3 (with Hani and James) and practiced:
+
+How to change the content of HTML elements
+How to change the style (CSS) of HTML elements
+How to react to HTML DOM events
+How to add and delete HTML elements
+
+I also (finally) completed a CodeWar challenge - better get cracking with these as there will be a SoC leaderboard soon!
+
+I spent my official #100DaysofCode extra hour:hourglass: testing myself on what I have learned today about DOM and I also completed another CodeWar challenge (just the one!).
+
+**Thoughts:**
+
+It was great to see a page respond to a DOM event! :tada:
+
+However, I was alarmed that I had managed to so easily forget CSS and HTML from a few months ago. Quickly picked it up again though. :high_brightness:
