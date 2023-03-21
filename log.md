@@ -399,3 +399,24 @@ I spent my official #100DaysofCode extra hour:hourglass: testing myself on what 
 It was great to see a page respond to a DOM event! :tada:
 
 However, I was alarmed that I had managed to so easily forget CSS and HTML from a few months ago. Quickly picked it up again though. :high_brightness:
+
+### Day 21: March 21st 2023
+**Today's Progress:**
+
+I kicked the day off before class with a couple of CodeWar challenges - I could complete a couple of the easier questions and I'm obviously a keen beaver! I then moved on to a 'Wolf in Sheep's Clothing' with my team and I struggled with this. The highs and lows of this journey! I'm sure I'll get it next time.
+
+We then had a talk from a previous Bootcamper Piper Bates who is now successfully employed as a Software Engineer. She gave us a great insight into her journey and the importance of networking and building a strong network of contacts.
+
+We were then introduced to Event Listeners and we experimented with various events and how to use them to change the DOM.
+
+We were told that this is our plaYground and we can do whatever we want with it. We had fun playing with colours, fonts and sizes.
+
+We then revisited our Rock, Paper, Scissors game and we were encouraged to work with Github CoPilot to help us with our code. I was impressed with the suggestions it made and I'm looking forward to using it more. We were also encouraged to explore Chat GPT and I was impressed with the suggestions it made when it was working, but I think we overloaded it with multiple requests and it stopped working. 
+
+I'm frustrated that I  can't produce every aspect of the game that I want and that i can't make it look pretty although I'm sure that will come with time and practice. 
+
+I hope that I look back at this in a couple of weeks and appreciate how far I have come.
+
+**Thoughts:**
+
+It was great to work with the team today cloning, pushing and pulling our work thrugh Github. I'm looking forward to using this more.
