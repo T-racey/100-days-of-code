@@ -420,3 +420,20 @@ I hope that I look back at this in a couple of weeks and appreciate how far I ha
 **Thoughts:**
 
 It was great to work with the team today cloning, pushing and pulling our work thrugh Github. I'm looking forward to using this more.
+
+### Day 22: March 22nd 2023
+**Today's Progress:**
+
+Today we completed the Myers Briggs Personality Test, I have completed this before. We will be working with this tomorrow in a session on Mindset learning.
+
+We were then introduced to asynchronous JavaScript and the concept of callbacks. This was followed by the concept of promises and the concept of async/await.
+We looked at setTimeout and setInterval.
+
+We practiced this by moving the hands on a clock and we also practiced using the console to test our code.
+
+Next - API's and how to interact with other organization's data. We used 'Fetch' to get data from an API that served up interesting facts about cats. 
+We met JSON - a data format that is used to store and transport data. It is often used when data is sent from a server to a web page.       
+And I was introduced to parsing JSON - converting JSON into a JavaScript object.
+
+**Thoughts:**
+Overwhelmed by the amount of information we were given today. I'm looking forward to the next few days to consolidate this learning.
