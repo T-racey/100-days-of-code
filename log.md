@@ -435,5 +435,7 @@ Next - API's and how to interact with other organization's data. We used 'Fetch'
 We met JSON - a data format that is used to store and transport data. It is often used when data is sent from a server to a web page.       
 And I was introduced to parsing JSON - converting JSON into a JavaScript object.
 
+We practiced this with a cat API which produced a random fact about cats.
+
 **Thoughts:**
 Overwhelmed by the amount of information we were given today. I'm looking forward to the next few days to consolidate this learning.
