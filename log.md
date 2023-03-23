@@ -445,3 +445,35 @@ Here is a link - https://t-racey.github.io/SoC-Wk2-Cat-Fact-Generator/
 
 **Thoughts:**
 Overwhelmed by the amount of information we were given today. I'm looking forward to the next few days to consolidate this learning.
+
+
+### Day 23: March 23rd 2023
+**Today's Progress:**
+
+I started work early today, preparing for my Mentor meeting tomorrow. And then, for my extra hour of code I revisited basic HTML on Udacity - a free course and specifically HTML Syntax Problem Set. 
+
+We started the day with a quiz about Asynch and Fetch.
+My first quiz where I scored 100%. Not because I understand it but because there were less specifics and I am good at the bigger picture.
+
+We then completed a Codewar challenge. I am still finding level 8 incredibly tough and beginning to accept that it is completely fine to research different types of functions to solve a problem. I am not expected to know all the functions at this early stage of School of Code. I tackled the "Return Negative" challenge. I came across a new maths Operator - the Math.abs.
+
+We then had a talk by Joseph on Cognitive Diversity - Apparently I am a charismatic and inspiring leader!
+Thinkers feel and feelers feel!
+
+This was followed by a talk from Paavan who is an expert in UX design and also a magician - really fascinating talk about the 'hows and whys' to improve UX experiences. A great resource that was suggested was "Refactoring UI - Practical Principles for UI design".
+
+Then we had a team research challenge where I worked with Jay, Jo, Safiyah, James and Hani. 
+
+Instructions: The aim is for you to spend time researching your topic (Javascript Loops) and create a short (approx. 5min) video to teach your fellow bootcampers, Each team member should have a speaking part.
+
+We divided the research task up and used Google Docs to prepare our presentation. We each had a loop to research. We defined it, showed the code and gave a real-life example. 
+
+Our biggest challenge was recording the presentation with 6 participants and uploading the file within the time allowed. This was a really fun and engaging challenge! 
+
+My Loop was the 'For In' loop. It is used to iterate over the properties of an object. It loops through all enumerable properties of an object, including those inherited from the prototype chain. 
+
+My real case example was "Imagine you have an object with the names of your favourite fruits and their corresponding colours. You can use a for...in loop to print out the name and colour of each fruit".
+
+**Thoughts:**.
+
+A great day . I feel like I moved forward a little today.
