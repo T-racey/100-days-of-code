@@ -390,6 +390,9 @@ How to change the style (CSS) of HTML elements
 How to react to HTML DOM events
 How to add and delete HTML elements
 
+We changed some elements to get a penny doubling scheme up and running, ready to create some riches. 💰💸
+Here is the link - https://t-racey.github.io/SoC-Wk2-Penny-Doubling-Pyramid-Scheme/
+
 I also (finally) completed a CodeWar challenge - better get cracking with these as there will be a SoC leaderboard soon!
 
 I spent my official #100DaysofCode extra hour:hourglass: testing myself on what I have learned today about DOM and I also completed another CodeWar challenge (just the one!).
@@ -431,11 +434,14 @@ We looked at setTimeout and setInterval.
 
 We practiced this by moving the hands on a clock and we also practiced using the console to test our code.
 
+Here is a link to this https://t-racey.github.io/SoC-Wk2-A-ticking-Clock/
+
 Next - API's and how to interact with other organization's data. We used 'Fetch' to get data from an API that served up interesting facts about cats. 
 We met JSON - a data format that is used to store and transport data. It is often used when data is sent from a server to a web page.       
 And I was introduced to parsing JSON - converting JSON into a JavaScript object.
 
 We practiced this with a cat API which produced a random fact about cats.
+Here is a link - https://t-racey.github.io/SoC-Wk2-Cat-Fact-Generator/
 
 **Thoughts:**
 Overwhelmed by the amount of information we were given today. I'm looking forward to the next few days to consolidate this learning.
