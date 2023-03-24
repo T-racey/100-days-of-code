@@ -474,7 +474,7 @@ My Loop was the 'For In' loop. It is used to iterate over the properties of an o
 
 My real case example was "Imagine you have an object with the names of your favourite fruits and their corresponding colours. You can use a for...in loop to print out the name and colour of each fruit".
 
-I then popped into a Kumospace event where coach Hamza shared a couple of really useful youtube links which will hopefully help me with my approch to learning code.
+I then popped into a Kumospace event where coach Hamza shared a couple of really useful youtube links which will hopefully help me with my approach to learning code.
 
 **Thoughts:**.
 
@@ -496,7 +496,7 @@ Here is a link to our project - https://t-racey.github.io/SoC-Wk2-Trivial-Knowle
 
 Coach Kazeem said we did well so I'm taking that and running with it! :runner:
 
-I also had a meeting with my mentor today. We discussed my progress I specifically asked about how to approach level 8 Codewar challenges. I realised that iut is indeed acceptable to search for tips on how to solve the challenge and Hannah worked with me in breaking down the challenge into smaller steps.
+I also had a meeting with my mentor today. We discussed my progress I specifically asked about how to approach level 8 Codewar challenges. I realised that it is indeed acceptable to search for tips on how to solve the challenge and Hannah worked with me in breaking down the challenge into smaller steps.
 
 **Thoughts:**.
 
