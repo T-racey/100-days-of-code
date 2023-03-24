@@ -474,6 +474,34 @@ My Loop was the 'For In' loop. It is used to iterate over the properties of an o
 
 My real case example was "Imagine you have an object with the names of your favourite fruits and their corresponding colours. You can use a for...in loop to print out the name and colour of each fruit".
 
+I then popped into a Kumospace event where coach Hamza shared a couple of really useful youtube links which will hopefully help me with my approch to learning code.
+
 **Thoughts:**.
 
 A great day . I feel like I moved forward a little today.
+
+### Day 24: March 23rd 2023
+**Today's Progress:**
+
+I started work early again today. I find that getting an hour of coding in at the start of the day helps to make me feel more productive and I am more likely to get more done.
+
+No starter quiz today. Whoop! :tada:
+But still, we had to do the infamous School  of Code "squats", :sweat:
+
+We then went straight into our Hackathon challenge. We were given the day to select an API and create a project using it. We were given a list of APIs to choose from and my team (Hani and James) chose the 'The Open Trivia Database API'.
+
+We spent the day researching the API and planning our project. We decided to create a quiz game. We used the API to get the questions and answers and we used the DOM to display the questions and answers. We used the console to test our code and we used Github to collaborate and push our code.
+
+Here is a link to our project - https://t-racey.github.io/SoC-Wk2-Trivial-Knowledge-Quiz/
+
+Coach Kazeem said we did well so I'm taking that and running with it! :runner:
+
+I also had a meeting with my mentor today. We discussed my progress I specifically asked about how to approach level 8 Codewar challenges. I realised that iut is indeed acceptable to search for tips on how to solve the challenge and Hannah worked with me in breaking down the challenge into smaller steps.
+
+**Thoughts:**.
+
+A strong end to the week! Just as well, I'm shattered! :sleeping:
+
+Apparently we have a couple of hours homework and class starts at 11am on Monday so more time to practice my coding before we get going on new learning.
+
+I'm looking forward to a bit of a break from the keyboard and will be keen to consolidate my learning a bit more.
