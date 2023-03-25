@@ -480,7 +480,7 @@ I then popped into a Kumospace event where coach Hamza shared a couple of really
 
 A great day . I feel like I moved forward a little today.
 
-### Day 24: March 23rd 2023
+### Day 24: March 24th 2023
 **Today's Progress:**
 
 I started work early again today. I find that getting an hour of coding in at the start of the day helps to make me feel more productive and I am more likely to get more done.
@@ -505,3 +505,16 @@ A strong end to the week! Just as well, I'm shattered! :sleeping:
 Apparently we have a couple of hours homework and class starts at 11am on Monday so more time to practice my coding before we get going on new learning.
 
 I'm looking forward to a bit of a break from the keyboard and will be keen to consolidate my learning a bit more.
+
+### Day 25: March 25th 2023
+**Today's Progress:**
+
+Today, being a Saturday was a catching up on life kind of day. 
+I wondered if I would squeeze some coding practice in and I managed to just get my hour in before midnight!
+
+I continued with my Udacity course on HTML and completed the HTML Syntax Problem Set. I also completed the HTML Syntax Quiz.
+I then completed a couple of level 8 Codewar challenges. Another Sum of Positives challenge and how to add two arrays together.
+
+**Thoughts:**.
+
+Looking forward to a morning of revision tomorrow.
