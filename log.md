@@ -518,3 +518,15 @@ I then completed a couple of level 8 Codewar challenges. Another Sum of Positive
 **Thoughts:**.
 
 Looking forward to a morning of revision tomorrow.
+
+### Day 26: March 26th 2023
+**Today's Progress:**
+
+Today I completed four recap tasks provided by the School of Code whcih included:
+
+Task 1 - Playing around with arrays
+Task 2 - Setting a counter that increase by 1 second and stopped when it reached 12
+Task 3 - Creating a cat fact and random photo generator by practicing playing with an API - https://t-racey.github.io/Cat-Photo-and-Facts/
+Task 4 - Creating a very basic to do list, adding a priority and then shuffling the order of the tasks based on priority
+
+A great day recapping the knowledge I have gained so far.
