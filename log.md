@@ -550,14 +550,15 @@ We looked at the differences between UI and UX and were introduced to Flexbox an
 
 (1) flexboxfroggy.com  
 
+![Alt text](Images/Froggame2.jpg)
 
-<img src="https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/trace/GitProjects/100%20Days%20of%20Code/100-days-of-code/Images/Frog%20game%202.jpg?version%3D1679933464998" alt="Alt text" width="50%">
+(2) https://cssgridgarden.com/
 
+![Alt text](Images/GridGarden.jpg)
 
 (2) https://cssgridgarden.com/  
 
 
-<img src="https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/trace/GitProjects/100%20Days%20of%20Code/100-days-of-code/Images/GridGarden.jpg?version%3D1679934128471" alt="Alt text" width="50%">
 
 For my #100daysofcode I completed 35% of a new module with Udacity on Javascript, as I feel that I want to practice so much of what I have learnt over the last two weeks.
 
