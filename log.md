@@ -524,9 +524,48 @@ Looking forward to a morning of revision tomorrow.
 
 Today I completed four recap tasks provided by the School of Code which included:
 
-Task 1 - Playing around with arrays 👆
-Task 2 - Setting a counter that increase by 1 second and stopped when it reached 12 🔄
-Task 3 - Creating a cat fact and random photo generator by practicing playing with an API - https://t-racey.github.io/Cat-Photo-and-Facts/ 🐈
-Task 4 - Creating a very basic to do list, adding a priority and then shuffling the order of the tasks based on priority🔺
+Task 1 - Playing around with arrays 👆  
+Task 2 - Setting a counter that increase by 1 second and stopped when it reached 12 🔄  
+Task 3 - Creating a cat fact and random photo generator by practicing playing with an API - https://t-racey.github.io/Cat-Photo-and-Facts/ 🐈  
+Task 4 - Creating a very basic to do list, adding a priority and then shuffling the order of the tasks based on priority🔺  
 
 A great day recapping the knowledge I have gained so far.
+
+### Day 27: March 27th 2023
+**Today's Progress:**
+
+Started at 11! Whoop!
+
+As I had completed my recap tasks over the weekend, this meant a special gift of time to practice practice practice. I completed Udacity’s introduction course UD001 (Basic HTML and CSS). I then started the Udacity Javascript introductory course. I really loved having the extra time to practice at my personal most productive time is early am 06.30am – 11:00am.
+
+We then did our squats and had a quick quiz to check our understanding of last weeks learning. We had a great talk from Dave Adams who is an expert in SRE (Site Reliability Engineer). 
+
+We gave feedback on our code tri, both positive and negative and then met our new trio. Nice to meet Catherine and Saynab.
+
+We then tried some blind coding to replicate a google page! Fortunately, this wasn’t awful as I have recently been revising CSS and managed to produce a word, centralised on the page 😊
+
+This afternoon, we were introduced to Agile and the Atlassian website as a good example resourceand the https://agilemanifesto.org/principles.html
+
+We looked at the differences between UI and UX and were introduced to Flexbox and CSS grid with the help of two games. 
+
+(1) flexboxfroggy.com  
+
+
+<img src="https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/trace/GitProjects/100%20Days%20of%20Code/100-days-of-code/Images/Frog%20game%202.jpg?version%3D1679933464998" alt="Alt text" width="50%">
+
+
+(2) https://cssgridgarden.com/  
+
+
+<img src="https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/trace/GitProjects/100%20Days%20of%20Code/100-days-of-code/Images/GridGarden.jpg?version%3D1679934128471" alt="Alt text" width="50%">
+
+For my #100daysofcode I completed 35% of a new module with Udacity on Javascript, as I feel that I want to practice so much of what I have learnt over the last two weeks.
+
+
+
+
+
+
+
+
+
