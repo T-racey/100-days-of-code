@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+&nbsp;
 ### Day 1: March 1st 2023
 
 Basing my journey on Freecodecamp and specifically the new Responsive web design as it is first on the list. https://www.freecodecamp.org/learn/2022/responsive-web-design 
@@ -17,6 +17,7 @@ This really brought it home to me that practice is so important and will hopeful
 
 I really struggled with step 14 but I managed to figure it out and I guess I am going to feel like this a lot!
 
+&nbsp;
 ### Day 2: March 2nd 2023
 
 **Today's Progress**: 
@@ -28,6 +29,7 @@ Carried out Freecodecamp ‘Responsive Web Design’ Tasks 15 - 34. Learnt about
 
 I was very 'cold' at the start and took a while to warm up and recall from task 14, how to insert image links. Practice, practice, practice!
 
+&nbsp;
 ### Day 3: March 3rd 2023
 
 **Today's Progress**: 
@@ -40,6 +42,7 @@ Today I added a web form to collect information, actions, input elements, type a
 Will this all stick??!!
 Got tied up in knots over capitals and spaces!
 
+&nbsp;
 ### Day 4: March 4th 2023
 
 **Today's Progress**: 
@@ -53,6 +56,7 @@ No, no not at all. After focusing on forms for a few sessions, they threw in a r
 
 I'm struck by how anxious I feel when asked to recall something I know I have done but have forgotten the precise structure of. So, thoughts like - where do I put that in the syntax. How much of this is memory and how much is it logic and where to look regarding having done something before.
 
+&nbsp;
 ### Day 5: March 5th 2023
 
 **Today's Progress**: 
@@ -68,6 +72,7 @@ It's Sunday funday! Finally moving on to coffee from cats and designing a coffee
 Still making mistakes by using English spelling rather than american.
 I LOVE the intro to CSS and find the commands a bit easier than HTML at this early stage of learning.
 
+&nbsp;
 ### Day 6: March 6th 2023
 
 **Today's Progress**: 
@@ -80,6 +85,7 @@ Today I covered the CSS width (pixels and %'s) property, comments in CSS, class 
 
 Still finding the intro to CSS commands a bit easier than HTML at this early stage of learning.
 
+&nbsp;
 ### Day 7: March 7th 2023
 
 **Today's Progress**: 
@@ -92,18 +98,23 @@ Today started by recapping text widths, then moved on to adding multiple class s
 
 Still finding the intro to CSS commands a bit easier than HTML at this early stage of learning.
 
+&nbsp;
+
 ### Day 8: March 8th 2023
 
 **Today's Progress**: 
 Continued with: Learn basic CSS by building a cafe menu
 Tasks 61 - 82 
 
-Introduced to <hr> and changed line widths. Also beginning to understand when to use a "." (dot) and when not to use a "." when selecting elements / classes to style. Then covered the rainbow of colors for styling <a> link properties (visited, hover, active).
+Introduced to \<hr> and changed line widths. Also beginning to understand when to use a "." (dot) and when not to use a "." when selecting elements / classes to style. Then covered the rainbow of colors for styling 
 
 **Thoughts:** 
 
 Found today the easiest day so far!
-  
+
+&nbsp;
+
+ 
 ### Day 9: March 9th 2023
 
 **Today's Progress**: 
@@ -115,6 +126,8 @@ Decided to spend an hour reviewing github basics and a further hour on basic com
 **Thoughts:** 
 
 I found it easier to learn when following freecodecamp lessons than 'just reading'.
+
+&nbsp;
   
 ### Day 10: March 10th 2023
 
@@ -131,6 +144,7 @@ So I spent the second part of my session doing steps 1-10 (9%) of Basic Javascri
 Cannot wait to do 8 hours or so a day of this!
 I loved the intro to JavaScript!
   
+&nbsp;
 
 ### Day 11: March 11th 2023
 
@@ -163,7 +177,9 @@ FirstLine
 ThirdLine
 
 Struggled to get to this:
-const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine"; 
+/*const myStr = "FirstLine\n\t\\SecondLine\n\ThirdLine"; 
+
+&nbsp;
 
 ### Day 12: March 12th 2023
 
@@ -181,6 +197,8 @@ Find the Length of a String
 **Thoughts:** 
 
 Shorter session today as I wanted to check that I have everything set up for fist day of School of Code tomorrow, in terms of running latest apps etc 
+
+&nbsp;
 
 Day 13: March 13th 2023
 Today's Progress:
@@ -213,6 +231,7 @@ Thoughts:
 Seems that some of the descriptions above are more complicated than the actual commands.
 One day at a time and take on board all the good advice given today about the method of learning and the truth about being well outside of my comfort zone!
 
+&nbsp;
 ### Day 14: March 14th 2023
 **Today's Progress:**
 
@@ -238,6 +257,7 @@ For the remaining 30 mins of my time, I recapped basic JavaScript functions to h
 Still taking this one day at a time. Hardest thing right now is to not feel overwhelmed and just keep practicing.
 Read this online and found mistakes - so had to prove to myself I could amend and upload again - If I can see this line, I did it! :two_hearts:
 
+&nbsp;
 ### Day 15: March 14th 2023
 **Today's Progress:**
 
@@ -282,6 +302,7 @@ I seem to have moments of eureka, followed by despair.
 I've worked out how to add a spell checker extension here, added it and (hopefully) removed my mistakes!
 Will I be able to push these changes to GitHub? Let's find out! :grin: AGAIN!
 
+&nbsp;
 ### Day 16: March 16th 2023
 **Today's Progress:**
 
@@ -307,6 +328,8 @@ They really meant it when they said thrive outside of your comfort zone!
 I really need to accelerate the feeling of being comfortable with not knowing everything. 
 It also feels incredibly strange to be permitted to Google the answer.
 
+&nbsp;
+
 ### Day 17: March 17th 2023
 **Today's Progress:**
 
@@ -322,6 +345,7 @@ My coding partner showed me how to preview this log before pushing changes and n
 
 Today I discovered that sometimes Chat GPT can mess up and send you answers to a question you did not ask. I'd like to say we are only human but ....
 
+&nbsp;
 
 ### Day 18: March 18th 2023
 **Today's Progress:**
@@ -355,6 +379,7 @@ I then tested myself by continuing with freeCodeCamp's Basic Javascript course.
 
 I still need need to practice writing javascript. Practice definitely moves me further towards being better!
 
+&nbsp;
 
 ### Day 19: March 19th 2023
 **Today's Progress:**
@@ -375,6 +400,7 @@ I feel like I can read and understand certain lines of code, but when it comes t
 
 I hope that week 2 of SoC cements some of these concepts. :sweat_smile:
 
+&nbsp;
 ### Day 20: March 20th 2023
 **Today's Progress:**
 
@@ -403,6 +429,7 @@ It was great to see a page respond to a DOM event! :tada:
 
 However, I was alarmed that I had managed to so easily forget CSS and HTML from a few months ago. Quickly picked it up again though. :high_brightness:
 
+&nbsp;
 ### Day 21: March 21st 2023
 **Today's Progress:**
 
@@ -423,6 +450,8 @@ I hope that I look back at this in a couple of weeks and appreciate how far I ha
 **Thoughts:**
 
 It was great to work with the team today cloning, pushing and pulling our work thrugh Github. I'm looking forward to using this more.
+
+&nbsp;
 
 ### Day 22: March 22nd 2023
 **Today's Progress:**
@@ -446,6 +475,7 @@ Here is a link - https://t-racey.github.io/SoC-Wk2-Cat-Fact-Generator/
 **Thoughts:**
 Overwhelmed by the amount of information we were given today. I'm looking forward to the next few days to consolidate this learning.
 
+&nbsp;
 
 ### Day 23: March 23rd 2023
 **Today's Progress:**
@@ -480,6 +510,8 @@ I then popped into a Kumospace event where coach Hamza shared a couple of really
 
 A great day . I feel like I moved forward a little today.
 
+&nbsp;
+
 ### Day 24: March 24th 2023
 **Today's Progress:**
 
@@ -506,6 +538,8 @@ Apparently we have a couple of hours homework and class starts at 11am on Monday
 
 I'm looking forward to a bit of a break from the keyboard and will be keen to consolidate my learning a bit more.
 
+&nbsp;
+
 ### Day 25: March 25th 2023
 **Today's Progress:**
 
@@ -519,6 +553,7 @@ I then completed a couple of level 8 Codewar challenges. Another Sum of Positive
 
 Looking forward to a morning of revision tomorrow.
 
+&nbsp;
 ### Day 26: March 26th 2023
 **Today's Progress:**
 
@@ -530,6 +565,8 @@ Task 3 - Creating a cat fact and random photo generator by practicing playing wi
 Task 4 - Creating a very basic to do list, adding a priority and then shuffling the order of the tasks based on priority🔺  
 
 A great day recapping the knowledge I have gained so far.
+
+&nbsp;
 
 ### Day 27: March 27th 2023
 **Today's Progress:**
@@ -544,7 +581,7 @@ We gave feedback on our code tri, both positive and negative and then met our ne
 
 We then tried some blind coding to replicate a google page! Fortunately, this wasn’t awful as I have recently been revising CSS and managed to produce a word, centralised on the page 😊
 
-This afternoon, we were introduced to Agile and the Atlassian website as a good example resourceand the https://agilemanifesto.org/principles.html
+This afternoon, we were introduced to Agile and the Atlassian website as a good example resource and the https://agilemanifesto.org/principles.html
 
 We looked at the differences between UI and UX and were introduced to Flexbox and CSS grid with the help of two games. 
 
@@ -560,7 +597,43 @@ We looked at the differences between UI and UX and were introduced to Flexbox an
 
 
 
-For my #100daysofcode I completed 35% of a new module with Udacity on Javascript, as I feel that I want to practice so much of what I have learnt over the last two weeks.
+For my #100daysofcode I completed 35% of a new module with Udacity on Javascript, as I feel that I want to practice so much of what I have learnt over the last two weeks.  
+
+&nbsp;
+### Day 28: March 28th 2023
+**Today's Progress:**
+
+
+Today we zoomed into UX with a fun morning with the #SchoolofCode. We used Hasso design thinking to think about a School of Hiking Bootcamp.  
+
+Our Disney trio:
+
+Dreamers wanted a VR app,   
+Realists said no budget,   
+Critics said too complicated.
+
+Fun going through the steps...laughed a lot.
+
+Our afternoon was spent on the UX of the School of Hiking website. We were given a list of tasks to complete and we worked as a trio to complete them.
+
+Finally, we looked at the website https://cantunsee.space
+   - select the design that is most correct you say! 😕
+   - Well, let me tell you, it's not child's play. 🧸
+   - For every button, every font, 🖱️
+   - Could mean the difference between an "A" 🙋‍♀️and "uh oh, don't"🙀
+
+![Alt text](Images/cant%20unsee.png)
+
+For my hour of code I practiced the Udacity Conditionals quizzes:
+
+  - Checking your balance
+  - Ice-cream quiz, and a
+  - Clothes size quiz
+
+And complete three Codewar challenges taking my kyu score to a heady 58 😎 💅
+
+  
+
 
 
 
