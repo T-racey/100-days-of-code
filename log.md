@@ -630,10 +630,21 @@ For my hour of code I practiced the Udacity Conditionals quizzes:
   - Ice-cream quiz, and a
   - Clothes size quiz
 
-And complete three Codewar challenges taking my kyu score to a heady 58 😎 💅
+And completed three Codewar challenges taking my kyu score to a heady 58 😎 💅
 
-  
+  &nbsp;
+### Day 29: March 29th 2023
+**Today's Progress:**
 
+Today we continued with our introduction to UI and UX. We touched on design theory and were told that we do not have to have an art degree to be a good designer. We were given a list of design principles to consider and were introduced to various tools which can be used to help with the design process. For example, Figma for wireframing and prototyping and low fidelity wireframes. We were also introduced to useful accessibility tools such as Lighthouse and WebAIM.
+
+We then moved on to CSS variables - a way to store values in CSS and then use them in our code. We looked at how to organise CSS code and the CSS priority order. 
+
+We were given the task of cloning a popular website and I attempted to clone Google. I was able to get the header and footer to look similar but I struggled with other content floating around the page - as you will see below! I will need to continue to work on this over the weekend.
+
+![Alt text](Images/Google.jpg)
+
+For my additional hour of personal coding, I covered some advanced conditionals in Javascript, such as Truthy and Falsy values and the ternary operator. I also completed a couple of Codewar challenge.
 
 
 
