@@ -577,7 +577,7 @@ As I had completed my recap tasks over the weekend, this meant a special gift of
 
 We then did our squats and had a quick quiz to check our understanding of last weeks learning. We had a great talk from Dave Adams who is an expert in SRE (Site Reliability Engineer). 
 
-We gave feedback on our code tri, both positive and negative and then met our new trio. Nice to meet Catherine and Saynab.
+We gave feedback on our code trio, both positive and negative and then met our new trio. Nice to meet Catherine and Saynab.
 
 We then tried some blind coding to replicate a google page! Fortunately, this wasn’t awful as I have recently been revising CSS and managed to produce a word, centralised on the page 😊
 
@@ -672,4 +672,8 @@ For the afternoon we were given a research task. Our subject was Information Arc
 
 ![Alt text](Images/slides.jpg)
 
+For my hour of code I revised while loops, for loops and nested loops by tackling new material from Udacity. 
 
+I then prepared for my mentor meeting tomorrow. A great day.
+
+&nbsp;
