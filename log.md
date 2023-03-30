@@ -647,10 +647,29 @@ We were given the task of cloning a popular website and I attempted to clone Goo
 For my additional hour of personal coding, I covered some advanced conditionals in Javascript, such as Truthy and Falsy values and the ternary operator. I also completed a couple of Codewar challenge.
 
 
+ &nbsp;
+### Day 30: March 30th 2023
+**Today's Progress:**
 
+We started the day as usual with a few **Codewar challenges** - the team were on fire this am and we managed to successfully solve four without too much difficulty. It is amazing how much you can learn in a week! 
 
+We then recapped the material covered on the 29th with a **quiz**.
 
+We moved on to the next **mindset** subject with Joseph. We covered perspectives for Ideation, both positional and generative. We looked at a couple of tools - the PNI (Positive, Negative and Interesting) and the LAER (Listen, Ask, Explore, Reflect) model. We covered Deep Listening and whether we are really listening to each other! We were asked to identify what type (4) of listener we are (Lost, Interrupting, Shrewd or Dramatic) and most concluded we are a bit of all of them at different times!
 
+We then had a fascinating and engaging **talk from two excellent speakers from Nested**. The talk was primarily about UX/UI but the CTO Javaid Karim talked about his goal to recruit junior developers and creating a supportive environment. Alex Fairholm shared his portfolio and both were extremely open about what helps them to be successful in their roles and also what we should be doing to prepare for our future careers. In particular with portfolios, we should share our working and not just a finished project. When we finish our final project don't be afraid to share where we think we could have improved.
 
+**Helpful tools shared:**
+
+  -  Dizzy Designs, Pegasus, Figma, Untitled UI, Responsive Viewer (a chrome extension), Bootstrap
+
+**Helpful tips shared:**
+
+  - Build your website in React.
+Use a couple of libraries - so for example if designing a form - use a library for the form and then add your own styling.
+
+For the afternoon we were given a research task. Our subject was Information Architecture. We were tasked with researching and explaining the subject with reference to car hire web sites. We used a Jam board to share our findings and then used this to help us prepare a google slideshow. I cannot believe that in the space of 90 mins we researched the topic, created slides, recorded a presentation and uploaded all to YouTube! I am so proud of our team of 6 and the effort we put in. 
+
+![Alt text](Images/slides.jpg)
 
 
